@@ -12,11 +12,11 @@ For the JavaScript version of this app, click here: [https://github.com/dkimjpg/
 For the Python and Java version of this app, click here: [https://github.com/dkimjpg/Simple-Parking-Validations---Java---Python](https://github.com/dkimjpg/Simple-Parking-Validations---Java---Python)
 
 # How parking validation code distribution works:
-When an employee enters their name and alias information into the designated areas, a preexisting xlsx file with the parking validation codes 
-will be checked to see what the next available code is and it will put that code along with the date and the employee's name and alias onto an xlsx file
+When an employee enters their name and alias information into the designated areas, a preexisting .xlsx file with the parking validation codes 
+will be checked to see what the next available code is and it will put that code along with the date and the employee's name and alias onto a .xlsx file
 that is intended to hold used parking validation codes. Then it will display that code on the website by redirecting the employee to the 
 parking code webpage with their code on it. The important part about the parking codes is that they need to already be in the same folder as
-this application, and when the codes run out, new codes need to be added. Plus, the xlsx file with all the used codes may also need to be updated
+this application, and when the codes run out, new codes need to be added. Plus, the .xlsx file with all the used codes may also need to be updated
 depending on specific usage.
 
 # Features
@@ -24,6 +24,6 @@ depending on specific usage.
 - Handles a few other potential requests that a front desk might get from employees and visitors
 
 # To-Do
-- [] GUI
-- [] Read operation
-- [] Write operation
+- [ ] GUI
+- [ ] Read operation
+- [ ] Write operation
